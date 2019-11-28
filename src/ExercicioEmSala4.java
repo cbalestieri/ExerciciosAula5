@@ -13,8 +13,7 @@ public class ExercicioEmSala4 {
 
         for (int i = 0; i <listanumeros.size(); i++) {
             soma+= listanumeros.get(i);
-
-            System.out.println(soma);
         }
+        System.out.println(soma);
     }
 }
